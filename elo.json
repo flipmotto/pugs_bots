@@ -2,5 +2,41 @@
     "flipmotto": {
         "elo": 1000,
         "weight": 1
+    },
+    "baggedpopcorn": {
+        "elo": 1000,
+        "weight": 1
+    },
+    "player3": {
+        "elo": 1000,
+        "weight": 1
+    },
+    "player4": {
+        "elo": 1000,
+        "weight": 1
+    },
+    "player5": {
+        "elo": 1000,
+        "weight": 1
+    },
+    "player6": {
+        "elo": 1000,
+        "weight": 1
+    },
+    "player7": {
+        "elo": 1000,
+        "weight": 1
+    },
+    "player8": {
+        "elo": 1000,
+        "weight": 1
+    },
+    "player9": {
+        "elo": 1000,
+        "weight": 1
+    },
+    "player10": {
+        "elo": 1000,
+        "weight": 1
     }
 }

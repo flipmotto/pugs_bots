@@ -1,0 +1,18 @@
+{
+    "flipmotto": {
+        "elo": 1200,
+        "weight": 1
+    },
+    "baggedpopcorn": {
+        "elo": 1100,
+        "weight": 1
+    },
+    "player3": {
+        "elo": 1100,
+        "weight": 1
+    },
+    "player4": {
+        "elo": 1200,
+        "weight": 1
+    }
+}
