@@ -42,7 +42,16 @@ async def on_ready():
         display_match(match)
 
 
-
+# TODO everything here is really fucking shit and unorganized
+# TODO match log, improve optimization algorithm
+# TODO determine win and loss elo
+# TODO determine how to update weight
+# TODO improve display_match
+# TODO lots of stuff fuck
+# TODO send out message with the top optimal teams
+# TODO react for which one to pick
+# TODO once a match is set automatically move people to correct vc
+# TODO send out another message asking which team won
 
 def get_players_from_vc(channel_name):
     target_channel = discord.utils.get(GUILD.channels, name=channel_name)
